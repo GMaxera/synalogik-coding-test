@@ -1,0 +1,1 @@
+"Hello world" & [good] morning. The date is { 25/04/1945 }
